@@ -9,5 +9,4 @@ def test_datetime_parsing():
     print("Datetime parsing test passed.")  
 
 if __name__ == "__main__":
-    test_datetime_parsing() 
-
+    test_datetime_parsing()
