@@ -7,5 +7,7 @@ jobs:
       - name: greeting
         run:  echo "Hello Shanu"
       - name: execution info
-        run:  echo "Job executed , Shanu"
+        run:  |
+            echo "Job executed , Shanu"
+            echo "Job Sucessful , Shanu"
       
