@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: greeting
         run:  echo "Hello Shanu"
-      - name: greeting
+      - name: execution info
         run:  echo "Job executed , Shanu"
       
